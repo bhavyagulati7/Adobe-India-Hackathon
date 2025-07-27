@@ -1,0 +1,516 @@
+{
+  "title": "Interested in publishing with us?",
+  "language": "en",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Contact book.department@intechopen.com",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "We are IntechOpen,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "the world’s leading publisher of",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Open Access books",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Built by scientists, for scientists",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "12.2%",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "126,000",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "145M",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "TOP 1%",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "154",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "5,100",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "1",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Chapter",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Introduction to Quantum",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Computing",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Surya Teja Marella and Hemanth Sai Kumar Parisa",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Abstract",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Keywords:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1. History of computing",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2. A new kind of computing",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "3",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Quantum Computing",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3. Need for quantum computers",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Quantum Supremacy",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "4. Fundamentals of quantum computing",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "5. Where the concept of bits came from?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "due to temperature or vibrations from the environment can drastically change the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Quantum Bit or Qubit",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "5",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "6. Properties of quantum computing",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "6",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "7. The topography of quantum technology",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "7",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Difference between classical computers and quantum computers",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Comparison key",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Classical computer",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Quantum computer",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Basis of",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "computing",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Information",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "storage",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Bit values",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Number of",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "possible states",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Output",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Gates used for",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "processing",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Scope of possible",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "solutions",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Operations",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Circuit",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "implementation",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "8",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "8. The architecture of quantum computer",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Figure 1",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Application Layer-",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Classical Layer-",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Figure 1.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "9",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Digital Layer-",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Analog Layer-",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Quantum Layer-",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Quantum Processing Unit (QPU)",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "9. Hardware and software of quantum computers",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "10",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "10. What is quantum algorithm?",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Quantum algorithm.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "11. Design limitations of quantum computer",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "11",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "12. Approaches to quantum computing",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "‘Analog",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Quantum Computing’.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "‘Gate-based quantum computing’.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "12",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "13. Different categories of quantum computer",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Analog quantum computer",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "13",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "NISQ gate-based computer",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Gate-based quantum computer with full error correction",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "14. Advantages of quantum computing",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "14",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "15. Disadvantages of quantum computing",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "15",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "16. Applications of quantum computing",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "16",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "17. Major challenges in quantum computing",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "17",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "18. Importance of quantum computing",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "18",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Author details",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "19. Future scope of quantum computing",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "19",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "DOI 10.17226/25196",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "309-47969-1 | DOI 10.17226/25196",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "in 35th Annual Symposium on",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "References",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "20",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "9_8. ISBN 1-4020-8067-0.",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "UEMCON47517.2019.8992935",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "21",
+      "page": 22
+    }
+  ]
+}
